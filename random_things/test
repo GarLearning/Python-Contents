@@ -1,0 +1,7 @@
+Cada linha em um arquivo de texto é terminada com um caractere especial de fim de linha, EOL (End of Line).
+No geral, é o caractere newline (\n).
+Esse caractere finaliza a linha atual e diz ao interpretador que uma nova linha se inicia.
+
+Já um arquivo binário é qualquer arquivo que não seja arquivo de texto padrão.
+Os arquivos binários somente devem ser processados por uma aplicação que compreenda a estrutura do arquivo.
+Como exemplos, temos arquivos pdf, doc, imagens, executáveis, mp3 e planilhas.
